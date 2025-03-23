@@ -1,0 +1,6 @@
+subscription_id = "d18efcbe-caa9-4004-ac2c-7312261e11de"
+vm_name = "matteo-vm"
+storage_account_name = "mystorageaccount"
+postgres_admin_user = "matteoadmin"
+postgres_admin_password = "monMotDePasse123"
+location = "eastus"
